@@ -42,24 +42,6 @@ I combine engineering depth with program management strategy — turning complex
 
 ---
 
-### 👕 **Hardly Made — E-commerce MVP**
-> MERN Stack | Stripe | Branding | UI/UX  
-
-- Created and launched an **e-commerce MVP** for my personal brand *Hardly Made*.  
-- Focused on simplicity, high-quality UI, and scalable architecture for future product lines.  
-- Deep dive: [Hardly Made Store →](https://github.com/sukhmaanrathore/hardly-made)
-
----
-
-## 🎨 Beats with Meaning  
-> Music | Emotion | Storytelling  
-
-A creative outlet where I produce beats inspired by real experiences and places that changed my life.  
-🎵 *“Miami”* — a club-house beat blended with violin melodies reflecting joy and nostalgia.  
-🎧 [Listen on YouTube →](https://youtu.be/yourlink)  
-
----
-
 ## 🧠 What I’m Learning
 - Deep dive into **AI & fraud detection**  
 - **Functional programming** and **state machines**  
@@ -68,11 +50,11 @@ A creative outlet where I produce beats inspired by real experiences and places 
 ---
 
 ## 💬 Let’s Connect
-- 🌐 [Notion Portfolio](https://your-notion-link.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sukhmaanrathore)  
-- 🎵 [YouTube](https://www.youtube.com/@yourchannel)  
-- ✉️ Email: yourname@email.com  
+- 🌐 [Notion Portfolio](https://www.notion.so/Technology-Portfolio-2a90e68fc75380a181c7e02448445e07?source=copy_link)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sukhmaan-s-rathore-5b7224a5/)  
+- 🎵 [Blogpost](https://substack.com/@techwithsukhmaan/posts)  
+- ✉️ Email: rathoresukhmaan@gmail.com  
 
 ---
 
-> *“Engineering meets emotion — building systems that scale and stories that stay.”*  
+> *“Engineering & Innovation — building systems that scale and stories that stay.”*  
