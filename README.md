@@ -18,7 +18,7 @@ I combine engineering depth with program management strategy — turning complex
 - Designed and led a large-scale system handling **25M+ POS transactions daily** across 5000+ stores.  
 - Built services for **deduplication, rules processing, and aggregation**, supporting financial reconciliation and theft analysis.  
 - Collaborated with global engineering teams to establish an **immutable, event-driven architecture** using **Enterprise Integration Patterns (EIP)**.  
-- Deep dive: [Walmart Transaction Processor →](https://github.com/sukhmaanrathore/walmart-transaction-processor)
+- Deep dive: [Walmart Transaction Processor →]Dummy Project to Be Created
 
 ---
 
@@ -28,8 +28,7 @@ I combine engineering depth with program management strategy — turning complex
 - Managed company-wide rollout of **Single Sign-On (SSO)** across internal and third-party tools.  
 - Drove alignment between identity, security, and application teams to deliver **frictionless authentication** and **compliance automation**.  
 - Designed technical documentation and user rollout strategy for 1000+ employees.  
-- Deep dive: [Okta Integration Design →](https://github.com/sukhmaanrathore/okta-sso)
-
+- Deep dive: [Okta Integration Design →]Dummy Project to Be Created
 ---
 
 ### 🔗 **Versapay — ERP Integrations & Fraud Detection**
@@ -38,8 +37,7 @@ I combine engineering depth with program management strategy — turning complex
 - Oversaw 10 cross-functional teams delivering **ERP-integrated SaaS features** across NetSuite, Sage, and Business Central.  
 - Partnered with product and engineering to design **fraud detection algorithms** for payment workflows.  
 - Improved transaction reliability and visibility between merchants and payers.  
-- Deep dive: [ERP Integration & Risk Models →](https://github.com/sukhmaanrathore/versapay-integrations)
-
+- Deep dive: [ERP Integration & Risk Models →]Dummy Project to Be Created
 ---
 
 ## 🧠 What I’m Learning
